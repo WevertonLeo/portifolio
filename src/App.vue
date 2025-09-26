@@ -1,11 +1,36 @@
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="bg-white min-h-screen text-gray-900">
+    <Header />
+    <About />
+    <Skills />
+    <Projects />
+    <Contact />
+    
+  </div>
 </template>
 
-<script setup></script>
+<script setup>
+import Header from './components/Header.vue'
+import About from './components/About.vue'
+import Skills from './components/Skills.vue'
+import Projects from './components/Projects.vue'
+import Contact from './components/Contact.vue'
+</script>
 
-<style scoped></style>
+<style>
+/* Scroll suave */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Padronização de fontes e cores */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb; /* cinza claro */
+}
+
+/* Links padrão */
+a {
+  text-decoration: none;
+}
+</style>
