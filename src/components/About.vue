@@ -21,10 +21,10 @@
       <!-- Descrição detalhada -->
       <div class="text-gray-700 md:text-lg leading-relaxed max-w-3xl text-center md:text-left">
         <p>
-          Sou Desenvolvedor Full Stack, especializado em Laravel e Vue.js.  
-          Possuo sólida experiência com bancos de dados relacionais, APIs REST, TDD e versionamento de código com Git e GitLab.  
-          Adoto princípios de Clean Code e práticas eficientes para entregar soluções escaláveis e de alta qualidade.  
-          Experiência com Docker e Linux para ambientes de desenvolvimento confiáveis. Estou sempre em busca de novos desafios e aprendizado contínuo.
+          Desenvolvedor Full Stack, especializado em Laravel e Vue.js.
+          <br>Possuo sólida experiência com bancos de dados relacionais, APIs REST, TDD e versionamento de código com Git e GitLab.
+          Adoto princípios de Clean Code e práticas eficientes para entregar soluções escaláveis e de alta qualidade.
+          <br>Experiência com Docker e Linux e Windows para ambientes de desenvolvimento confiáveis. Estou sempre em busca de novos desafios e aprendizado contínuo.
         </p>
       </div>
 
